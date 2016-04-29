@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+.hidden_div{
+	display:none;
+}
+
+.mycomments {
+	color: #7700b3;
+	font-style: italic;
+}
